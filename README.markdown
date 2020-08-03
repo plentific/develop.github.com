@@ -1,5 +1,18 @@
 **NOTE: This repository is no longer supported or updated by GitHub. See http://developer.github.com/.**
 
+Plentific's interest
+====================
+
+This is under plentific as it was used for research into API
+versioning. To get to the documentation, run with docker:
+
+```
+docker build -t githubv2 .
+docker run -d -p 3000:3000 githubv2
+```
+
+Then open your web browser to http://127.0.0.1:3000
+
 Develop.GitHub.com
 ==================
 
